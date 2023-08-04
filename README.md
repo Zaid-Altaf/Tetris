@@ -23,7 +23,7 @@ The matris.py file is where the main game loop resides. This is where the game c
 To run the game, simply execute the matris.py file with Python:
 <br></br>
 
-![image](https://github.com/Zaid-Altaf/Tetris/assets/100033305/2de1479b-40ad-4e0e-b5ba-00283535f432)
+<img src="./images/Img1.png">
 
 <h2>Dependencies</h2>
 The game requires the following Python library:
@@ -31,6 +31,6 @@ The game requires the following Python library:
 <li>pygame: This is a set of Python modules designed for writing video games. It provides functionalities for graphics, sound, and input handling. If you don't have it installed, you can install it using pip:</li> 
 <br>
 
-![image](https://github.com/Zaid-Altaf/Tetris/assets/100033305/fba04423-3564-47ab-ad70-d1b16f4cf482)
+<img src="./images/Img2.png">
 
 
